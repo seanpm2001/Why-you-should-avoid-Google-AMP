@@ -1,1 +1,1 @@
-An article on why you should stop using Google Summer of Code and find a privacy focused efficient alternative.
+An article on what Google AMP is, how it is destroying the openness of the Internet, and how to stop using it.
